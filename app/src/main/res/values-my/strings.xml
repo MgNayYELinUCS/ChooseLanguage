@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="welcome">ၾကိဳဆိုပါသည္။</string>-->
+    <!--<string name="name">အမည္</string>-->
+    <!--<string name="password">စကား၀ွက္</string>-->
+    <!--<string name="changeLanguage" >ဘာသာစကား</string>-->
+
+    <string name="app_name">Name</string>
+    <string name="changeLanguage">ဘာသာစကား</string>
+    <string name="name">အမည်</string>
+    <string name="password">စကား၀ှက်</string>
+    <string name="welcome">မဂႅလာပါ</string>
+</resources>
